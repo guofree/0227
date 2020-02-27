@@ -7,4 +7,4 @@ line feed settings
 dev new feature in dev branch
 create f1 branch
 dev feature 2 in f2 branch
-i am developing one feature , not finished.
+fix ergent issue 001
