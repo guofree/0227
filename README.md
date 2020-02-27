@@ -5,3 +5,4 @@ go back to history
 push force
 line feed settings
 dev new feature in dev branch
+dev feature1 in master branch
